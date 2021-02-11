@@ -1,0 +1,127 @@
+HTTrack3.49-2 launched on Thu, 11 Feb 2021 11:30:26 at https://www.anjali-khanna.in/
+(httrack https://www.anjali-khanna.in/ -O /home/faisal/Desktop/anjali )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:35:51	Error: 	"Not Found" (404) at link www.anjali-khanna.in/wp-content/themes/escorts/assets/fonts/glyphicons-halflings-regular.eot (from https://www.anjali-khanna.in/wp-content/cache/autoptimize/css/autoptimize_8e693adc52537362fc174dd08abbc210.css)
+11:35:51	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=32
+11:35:51	Warning: 	File has moved from https://www.anjali-khanna.in/?p=32 to https://www.anjali-khanna.in/about-us
+11:35:51	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=34
+11:35:51	Warning: 	File has moved from https://www.anjali-khanna.in/?p=34 to https://www.anjali-khanna.in/our-services
+11:35:51	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=35
+11:35:51	Warning: 	File has moved from https://www.anjali-khanna.in/?p=35 to https://www.anjali-khanna.in/escorts-gallery
+11:35:51	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=36
+11:35:51	Warning: 	File has moved from https://www.anjali-khanna.in/?p=36 to https://www.anjali-khanna.in/rate
+11:35:51	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1438
+11:35:51	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1438 to https://www.anjali-khanna.in/hotels
+11:36:34	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=38
+11:36:34	Warning: 	File has moved from https://www.anjali-khanna.in/?p=38 to https://www.anjali-khanna.in/contact-us
+11:36:34	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=228
+11:36:34	Warning: 	File has moved from https://www.anjali-khanna.in/?p=228 to https://www.anjali-khanna.in/escorts-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=368
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=368 to https://www.anjali-khanna.in/kolkata-call-girls.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=14
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=14 to https://www.anjali-khanna.in/call-girls-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=239
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=239 to https://www.anjali-khanna.in/vip-escorts-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=9
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=9 to https://www.anjali-khanna.in/college-escorts-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=301
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=301 to https://www.anjali-khanna.in/high-profile-escorts-kolkata.html
+11:36:37	Error: 	"Not Found" (404) at link www.anjali-khanna.in/call-girls-kolkata (from https://www.anjali-khanna.in/high-profile-escorts-kolkata.html)
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=721
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=721 to https://www.anjali-khanna.in/russian-escorts-kolkata.html
+11:36:37	Error: 	"Method Not Allowed" (405) at link https://www.anjali-khanna.in/xmlrpc.php (from https://www.anjali-khanna.in/russian-escorts-kolkata.html)
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=7
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=7 to https://www.anjali-khanna.in/genuine-escort-agency-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=20
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=20 to https://www.anjali-khanna.in/escort-service-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=296
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=296 to https://www.anjali-khanna.in/housewife-escorts-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1411
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1411 to https://www.anjali-khanna.in/locality/tollygunge
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1409
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1409 to https://www.anjali-khanna.in/locality/salt-lake
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1406
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1406 to https://www.anjali-khanna.in/locality/park-street
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1404
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1404 to https://www.anjali-khanna.in/locality/park-circus
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1402
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1402 to https://www.anjali-khanna.in/locality/new-town
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1400
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1400 to https://www.anjali-khanna.in/locality/minto-park
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1398
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1398 to https://www.anjali-khanna.in/locality/lake-town
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1396
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1396 to https://www.anjali-khanna.in/locality/kankurgachi
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1394
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1394 to https://www.anjali-khanna.in/locality/jatin-das-park
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1390
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1390 to https://www.anjali-khanna.in/locality/howrah
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1388
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1388 to https://www.anjali-khanna.in/locality/esplanade
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1386
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1386 to https://www.anjali-khanna.in/locality/dum-dum
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1384
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1384 to https://www.anjali-khanna.in/locality/beck-bagan
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1381
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1381 to https://www.anjali-khanna.in/locality/barabazar
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1377
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1377 to https://www.anjali-khanna.in/locality/ballygunge
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1373
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1373 to https://www.anjali-khanna.in/locality/air-port-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1088
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1088 to https://www.anjali-khanna.in/kolkata-call-girl.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=819
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=819 to https://www.anjali-khanna.in/kolkata-call-girl-phone-number.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=415
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=415 to https://www.anjali-khanna.in/air-hostess-escorts-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=789
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=789 to https://www.anjali-khanna.in/bollywood-escorts-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=410
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=410 to https://www.anjali-khanna.in/celebrity-escorts-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=5
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=5 to https://www.anjali-khanna.in/female-escorts-in-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=326
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=326 to https://www.anjali-khanna.in/independent-call-girls-kolkata.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=18
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=18 to https://www.anjali-khanna.in/independent-kolkata-escorts.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=16
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=16 to https://www.anjali-khanna.in/kolkata-escort-girls.html
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1590
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1590 to https://www.anjali-khanna.in/hotels/the-vedic-village-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1586
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1586 to https://www.anjali-khanna.in/hotels/the-westin-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1582
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1582 to https://www.anjali-khanna.in/hotels/novotel-hotel-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1578
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1578 to https://www.anjali-khanna.in/hotels/pride-hotel-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1573
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1573 to https://www.anjali-khanna.in/hotels/hindustan-international-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1569
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1569 to https://www.anjali-khanna.in/hotels/itc-sonar-bangla-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1565
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1565 to https://www.anjali-khanna.in/hotels/taj-bengal-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1561
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1561 to https://www.anjali-khanna.in/hotels/the-park-hotel-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1556
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1556 to https://www.anjali-khanna.in/hotels/jw-marriott-hotel-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1552
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1552 to https://www.anjali-khanna.in/hotels/hyatt-regency-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1549
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1549 to https://www.anjali-khanna.in/hotels/the-oberoi-grand-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1546
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1546 to https://www.anjali-khanna.in/hotels/the-lalit-great-eastern-kolkata-5-star
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1544
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1544 to https://www.anjali-khanna.in/hotels/vivanta-hotel-kolkata
+11:36:37	Warning: 	Moved Permanently for https://www.anjali-khanna.in/?p=1539
+11:36:37	Warning: 	File has moved from https://www.anjali-khanna.in/?p=1539 to https://www.anjali-khanna.in/hotels/hotel-swissotel-kolkata
+11:36:37	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.anjali-khanna.in/blog/feed (from https://www.anjali-khanna.in/blog)
+11:36:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.anjali-khanna.in/blog/feed (from https://www.anjali-khanna.in/blog)
+11:36:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.anjali-khanna.in/blog/feed (from https://www.anjali-khanna.in/blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 13 seconds : 375 links scanned, 312 files written (8081839 bytes overall) [7302127 bytes received at 19576 bytes/sec], 1449031 bytes transferred using HTTP compression in 334 files, ratio 32%, 8.6 requests per connection
+(4 errors, 112 warnings, 0 messages)
